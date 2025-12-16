@@ -1,4 +1,4 @@
-Open in Jupyter, Anaconda Navigator
+Open in Jupyter, Anaconda Navigator after downloading and extracting zip
 
 General Flow in Notebook:
 
@@ -7,4 +7,5 @@ General Flow in Notebook:
 3. Data Cleaning
 4. Exploratory Analysis
 5. Funnel Analysis and Bar/Line Graphs
+
 6. Prediction (ML - Regression/ may also use Holt)
